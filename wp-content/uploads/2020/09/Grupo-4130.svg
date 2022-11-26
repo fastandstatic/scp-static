@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.929" height="27.319" viewBox="0 0 33.929 27.319">
+  <g id="Grupo_4130" data-name="Grupo 4130" transform="translate(-35.13 -442.088)">
+    <g id="star" transform="translate(35.106 443.162)">
+      <g id="Grupo_4121" data-name="Grupo 4121" transform="translate(0.023 0)">
+        <path id="Trazado_2817" data-name="Trazado 2817" d="M25.784,9.343a1.9,1.9,0,0,0-1.156-.618h0l-6.975-.964-2.76-6.6a1.894,1.894,0,0,0-3.5,0l-2.76,6.6-6.975.964a1.9,1.9,0,0,0-1,3.3l5.255,4.686-1.08,7.354a1.9,1.9,0,0,0,2.94,1.848l5.369-3.652,5.369,3.655a1.9,1.9,0,0,0,2.94-1.848l-1.08-7.356,5.255-4.686A1.9,1.9,0,0,0,25.784,9.343Zm-7.035,6.309a.937.937,0,0,0-.3.836l1.125,7.873-5.9-4.01a.937.937,0,0,0-1.053,0L6.689,24.337l1.154-7.852a.937.937,0,0,0-.3-.832L1.916,10.584,9.422,9.548a.937.937,0,0,0,.737-.567l3-7.106a.042.042,0,0,1,.008.014L16.13,8.977a.937.937,0,0,0,.737.567l7.515,1.082Z" transform="translate(-0.023 0)" fill="#fff"/>
+      </g>
+    </g>
+    <line id="Línea_16" data-name="Línea 16" y1="4.065" x2="4.573" transform="translate(58.5 443.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Línea_17" data-name="Línea 17" y1="4.065" x2="4.573" transform="translate(63.073 457.22)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
