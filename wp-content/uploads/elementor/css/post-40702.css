@@ -1,0 +1,32 @@
+.elementor-40702 .elementor-element.elementor-element-b4aec3a:not(.elementor-motion-effects-element-type-background), .elementor-40702 .elementor-element.elementor-element-b4aec3a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://scp.com.co/wp-content/uploads/2022/03/pexels-evg-kowalievska-1170979.jpg");background-position:0% 13%;background-repeat:no-repeat;background-size:cover;}.elementor-40702 .elementor-element.elementor-element-b4aec3a > .elementor-background-overlay{background-color:#000000;opacity:0.12;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-40702 .elementor-element.elementor-element-b4aec3a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:200px 0px 50px 0px;}@media(max-width:1024px){.elementor-40702 .elementor-element.elementor-element-b4aec3a:not(.elementor-motion-effects-element-type-background), .elementor-40702 .elementor-element.elementor-element-b4aec3a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}}@media(max-width:767px){.elementor-40702 .elementor-element.elementor-element-b4aec3a:not(.elementor-motion-effects-element-type-background), .elementor-40702 .elementor-element.elementor-element-b4aec3a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}}/* Start custom CSS for html, class: .elementor-element-c835e6a */.elementor-widget-container {
+    display: flex;
+    flex-wrap: wrap;
+}/* End custom CSS */
+/* Start custom CSS */section#primary > h1 {display: none;}
+
+section.breadcrumb-section {display: none;}
+
+section#primary {
+    padding-top: 0 !important;
+    margin: 0;
+}
+
+.title_clinicos i {
+    background: #FFF2E6 !important;
+    color: #005496 !important;
+    padding: 5px 10px;
+    font-size: 21px;
+    vertical-align: middle !important;
+    line-height: 1.2 !important;
+    border-radius: 35px;
+    float: left;
+    margin-right: 7px;
+}
+
+.title_clinicos h3 {
+    color: white;
+    text-transform: none;
+    font-size: 26px;
+    margin: 0 !important;
+    padding: 0 !important;
+}/* End custom CSS */
