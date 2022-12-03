@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Recomendaciones para la consulta externa ante alerta por Coronavirus, a cargo de la SCP y la ACNP	</title>
+	<atom:link href="https://scp.com.co/recomendaciones-para-la-consulta-externa-por-la-scp-y-la-acnp-ante-alerta-por-coronavirus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scp.com.co/recomendaciones-para-la-consulta-externa-por-la-scp-y-la-acnp-ante-alerta-por-coronavirus/</link>
+	<description>Sociedad Colombiana de Pediatría</description>
+	<lastBuildDate>Sat, 20 Jun 2020 01:02:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
