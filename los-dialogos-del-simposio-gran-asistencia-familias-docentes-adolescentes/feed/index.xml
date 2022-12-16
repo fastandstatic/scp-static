@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: &#8216;Los Diálogos del Simposio&#8217;, con gran asistencia de familias, docentes y adolescentes	</title>
+	<atom:link href="https://scp.com.co/los-dialogos-del-simposio-gran-asistencia-familias-docentes-adolescentes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scp.com.co/los-dialogos-del-simposio-gran-asistencia-familias-docentes-adolescentes/</link>
+	<description>Sociedad Colombiana de Pediatría</description>
+	<lastBuildDate>Mon, 25 Jul 2016 22:40:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
