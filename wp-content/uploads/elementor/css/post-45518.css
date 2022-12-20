@@ -3,4 +3,52 @@
 					.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main .elementor-item.highlighted,
 					.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main .elementor-item:focus{color:#fff;}.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
 					.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#4E9B9A;}.elementor-45518 .elementor-element.elementor-element-a9d6d1c .e--pointer-framed .elementor-item:before,
-					.elementor-45518 .elementor-element.elementor-element-a9d6d1c .e--pointer-framed .elementor-item:after{border-color:#4E9B9A;}.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFFFFF;}#elementor-popup-modal-45518 .dialog-message{width:640px;height:100vh;align-items:center;}#elementor-popup-modal-45518{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-45518 .dialog-close-button{display:flex;}#elementor-popup-modal-45518 .dialog-widget-content{background-color:#346B6A;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-45518 .dialog-close-button i{color:#FFFFFF;}#elementor-popup-modal-45518 .dialog-close-button svg{fill:#FFFFFF;}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-45518 .elementor-element.elementor-element-54f59ba.elementor-column .elementor-column-wrap{align-items:center;}.elementor-45518 .elementor-element.elementor-element-54f59ba.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-45518 .elementor-element.elementor-element-54f59ba.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}}@media(max-width:767px){.elementor-45518 .elementor-element.elementor-element-1ca583c > .elementor-widget-container{margin:0px 0px 30px 0px;}#elementor-popup-modal-45518 .dialog-message{width:250px;}#elementor-popup-modal-45518{justify-content:flex-start;align-items:flex-start;}body:not(.rtl) #elementor-popup-modal-45518 .dialog-close-button{right:90%;}body.rtl #elementor-popup-modal-45518 .dialog-close-button{left:90%;}#elementor-popup-modal-45518 .dialog-close-button{font-size:20px;}}
+					.elementor-45518 .elementor-element.elementor-element-a9d6d1c .e--pointer-framed .elementor-item:after{border-color:#4E9B9A;}.elementor-45518 .elementor-element.elementor-element-a9d6d1c .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFFFFF;}#elementor-popup-modal-45518 .dialog-message{width:640px;height:100vh;align-items:center;}#elementor-popup-modal-45518{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-45518 .dialog-close-button{display:flex;}#elementor-popup-modal-45518 .dialog-widget-content{background-color:#346B6A;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-45518 .dialog-close-button i{color:#FFFFFF;}#elementor-popup-modal-45518 .dialog-close-button svg{fill:#FFFFFF;}@media(max-width:767px){#elementor-popup-modal-45518 .dialog-message{width:250px;}#elementor-popup-modal-45518{justify-content:flex-start;align-items:flex-start;}body:not(.rtl) #elementor-popup-modal-45518 .dialog-close-button{right:90%;}body.rtl #elementor-popup-modal-45518 .dialog-close-button{left:90%;}#elementor-popup-modal-45518 .dialog-close-button{font-size:20px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100107/Gilroy-Bold.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100100/Gilroy-Bold.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100116/Gilroy-Bold.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Bold.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100107/Gilroy-Bold.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100100/Gilroy-Bold.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100116/Gilroy-Bold.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Bold.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100328/Gilroy-Medium.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100328/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100305/Gilroy-Medium.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100257/Gilroy-Medium.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100313/Gilroy-Medium.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Medium.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103053/Gilroy-Light.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103053/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103028/Gilroy-Light.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103021/Gilroy-Light.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103036/Gilroy-Light.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Light.svg#Gilroy') format('svg');
+}
+/* End Custom Fonts CSS */
