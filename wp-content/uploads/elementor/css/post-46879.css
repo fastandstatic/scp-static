@@ -1,0 +1,58 @@
+.elementor-46879 .elementor-element.elementor-element-457fe1a > .elementor-container{min-height:333px;}.elementor-46879 .elementor-element.elementor-element-457fe1a:not(.elementor-motion-effects-element-type-background), .elementor-46879 .elementor-element.elementor-element-457fe1a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-46879 .elementor-element.elementor-element-457fe1a, .elementor-46879 .elementor-element.elementor-element-457fe1a > .elementor-background-overlay{border-radius:16px 16px 16px 16px;}.elementor-46879 .elementor-element.elementor-element-457fe1a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-46879 .elementor-element.elementor-element-457fe1a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-46879 .elementor-element.elementor-element-c387ca2 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-46879 .elementor-element.elementor-element-c387ca2 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-46879 .elementor-element.elementor-element-c387ca2 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-46879 .elementor-element.elementor-element-31d212c .elementor-heading-title{color:#FFFFFF;font-family:"Gilroy", Sans-serif;font-size:17px;font-weight:400;}.elementor-46879 .elementor-element.elementor-element-79bd40c .elementor-heading-title{color:#FFFFFF;font-family:"Gilroy", Sans-serif;font-size:23px;font-weight:700;}.elementor-46879 .elementor-element.elementor-element-79bd40c > .elementor-widget-container{padding:0px 3px 3px 3px;}@media(max-width:1366px){.elementor-46879 .elementor-element.elementor-element-7853636 > .elementor-container{max-width:1343px;}.elementor-46879 .elementor-element.elementor-element-79bd40c .elementor-heading-title{font-size:21px;}}@media(max-width:767px){.elementor-46879 .elementor-element.elementor-element-31d212c .elementor-heading-title{font-size:17px;}.elementor-46879 .elementor-element.elementor-element-79bd40c .elementor-heading-title{font-size:16px;line-height:1.2em;}}/* Start custom CSS for section, class: .elementor-element-7853636 */.elementor-46879 .elementor-element.elementor-element-7853636{
+    /* From https://css.glass */
+background: rgba(0, 0, 0, 0.35);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(13.7px);
+-webkit-backdrop-filter: blur(13.7px);
+
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100107/Gilroy-Bold.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100100/Gilroy-Bold.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100116/Gilroy-Bold.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Bold.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100131/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100107/Gilroy-Bold.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100100/Gilroy-Bold.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100116/Gilroy-Bold.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Bold.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100328/Gilroy-Medium.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100328/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100305/Gilroy-Medium.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100257/Gilroy-Medium.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14100313/Gilroy-Medium.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Medium.svg#Gilroy') format('svg');
+}
+@font-face {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103053/Gilroy-Light.eot');
+	src: url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103053/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103028/Gilroy-Light.woff2') format('woff2'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103021/Gilroy-Light.woff') format('woff'),
+		url('https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/12/14103036/Gilroy-Light.ttf') format('truetype'),
+		url('https://scp.com.co/wp-content/uploads/2022/12/Gilroy-Light.svg#Gilroy') format('svg');
+}
+/* End Custom Fonts CSS */
