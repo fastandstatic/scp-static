@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Certificados archivo - Sociedad Colombiana de Pediatría | SCP</title>
+	<atom:link href="https://scp.com.co/certificados/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scp.com.co/certificados/</link>
+	<description>Sociedad Colombiana de Pediatría</description>
+	<lastBuildDate>Thu, 19 Jan 2023 13:49:45 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Borrador automático</title>
+		<link>https://scp.com.co/certificados/borrador-automatico-2/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 20:34:19 +0000</pubDate>
+				<guid isPermaLink="false">https://scp.com.co/?post_type=certificados&#038;p=49504</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://scp.com.co/certificados/borrador-automatico-2/">Borrador automático</a> appeared first on <a rel="nofollow" href="https://scp.com.co/">Sociedad Colombiana de Pediatría | SCP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://scp.com.co/certificados/borrador-automatico-2/">Borrador automático</a> appeared first on <a rel="nofollow" href="https://scp.com.co/">Sociedad Colombiana de Pediatría | SCP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Borrador automático</title>
+		<link>https://scp.com.co/certificados/borrador-automatico/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 20:32:37 +0000</pubDate>
+				<guid isPermaLink="false">https://scp.com.co/?post_type=certificados&#038;p=49502</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://scp.com.co/certificados/borrador-automatico/">Borrador automático</a> appeared first on <a rel="nofollow" href="https://scp.com.co/">Sociedad Colombiana de Pediatría | SCP</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://scp.com.co/certificados/borrador-automatico/">Borrador automático</a> appeared first on <a rel="nofollow" href="https://scp.com.co/">Sociedad Colombiana de Pediatría | SCP</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
