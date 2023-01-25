@@ -1899,6 +1899,8 @@ if (!String.prototype.trim) {
                     data["last_name"] = lastName;
                 }
                 Cookies.set('pys_advanced_form_data', JSON.stringify(data),{ expires: 300 } );
+
+                GAds.updateEnhancedConversionData()
             },
 
             getAdvancedFormData: function () {
@@ -2155,6 +2157,7 @@ if (!String.prototype.trim) {
                             data:params,
                             url:window.location.href,
                             eventID:event.eventID,
+                            ajax_event:options.ajax_event
                         };
 
                         if(event.hasOwnProperty('woo_order')) {
@@ -2878,7 +2881,24 @@ if (!String.prototype.trim) {
                         }
                     }
 
-                    gtag('config', trackingId, config);
+                    if (options.gdpr.cookiebot_integration_enabled && typeof Cookiebot !== 'undefined') {
+
+                        var cookiebot_consent_category = options.gdpr['cookiebot_analytics_consent_category'];
+                        if (options.gdpr['analytics_prior_consent_enabled']) {
+                            if (Cookiebot.consented === true && Cookiebot.consent[cookiebot_consent_category]) {
+                                gtag('config', trackingId, config);
+                            }
+                        } else {
+                            if (Cookiebot.consent[cookiebot_consent_category]) {
+                                gtag('config', trackingId, config);
+                            }
+                        }
+
+                    }
+                    else
+                    {
+                        gtag('config', trackingId, config);
+                    }
                     
                 });
 
@@ -2913,8 +2933,8 @@ if (!String.prototype.trim) {
 
             },
 
-            onAdSenseEvent: function () {
-                // not supported
+            onAdSenseEvent: function (event) {
+                this.fireEvent(event.name, event);
             },
 
             onClickEvent: function (event) {
@@ -3123,7 +3143,7 @@ if (!String.prototype.trim) {
     var GAds = function (options) {
 
         var initialized = false;
-
+        var isAllowEnhancedConversions = false
         /**
          * Fires event
          *
@@ -3212,6 +3232,18 @@ if (!String.prototype.trim) {
                 initialized = false;
             },
 
+            updateEnhancedConversionData : function () {
+
+                if(isAllowEnhancedConversions) {
+                    var advanced = Utils.getAdvancedFormData()
+                    if(Object.keys(options.google_ads.user_data).length == 0) {
+                        if(advanced["email"].length > 0) {
+                            gtag('set', 'user_data', {"email":advanced["email"]});
+                        }
+                    }
+                }
+            },
+
             loadPixel: function () {
 
                 if (initialized || !this.isEnabled() || !Utils.consentGiven('google_ads')) {
@@ -3223,14 +3255,20 @@ if (!String.prototype.trim) {
                 // configure conversion ids
                 options.google_ads.conversion_ids.forEach(function (conversion_id,index) {
 
+                    gtag('config', conversion_id);
 
-                    if(options.google_ads.enhanced_conversion.includes("index_"+index)
-                            && Object.keys(options.google_ads.user_data).length > 0
-                    ) {
+                    if(options.google_ads.enhanced_conversion.includes("index_"+index)) {
+                        isAllowEnhancedConversions = true
                         gtag('config', conversion_id,{ 'allow_enhanced_conversions':true });
-                        gtag('set', 'user_data', options.google_ads.user_data);
-                    } else {
-                        gtag('config', conversion_id);
+                    }
+
+                    if(isAllowEnhancedConversions) {
+                        var advanced = Utils.getAdvancedFormData()
+                        if(Object.keys(options.google_ads.user_data).length > 0) {
+                            gtag('set', 'user_data', options.google_ads.user_data);
+                        } else if(advanced["email"].length > 0) {
+                            gtag('set', 'user_data', {"email":advanced["email"]});
+                        }
                     }
 
                 });
@@ -3265,7 +3303,7 @@ if (!String.prototype.trim) {
             },
 
             onAdSenseEvent: function (event) {
-                // not supported
+                this.fireEvent(event.name, event);
             },
 
             onClickEvent: function (action, params) {
@@ -3508,11 +3546,11 @@ if (!String.prototype.trim) {
                 }
             })
             $(document).on("blur","input[type='text']",function () {
+                let name;
                 if($(this).attr("name") && $(this).attr("name") != '')
                 {
-                    let name = $(this).attr("name").trim()
+                    name = $(this).attr("name").trim()
                 }
-
                 if(name && options.advance_matching_fn_names.includes(name)) {
                     let value = $(this).val().trim();
                     if(value.length > 0) {
@@ -3776,7 +3814,7 @@ if (!String.prototype.trim) {
             $(window)
                 .on( "blur",function () {
                     if (isOverGoogleAd) {
-
+                        console.log('automatic_event_adsense')
                         if(options.dynamicEvents.hasOwnProperty("automatic_event_adsense")) {
                             var pixels = Object.keys(options.dynamicEvents.automatic_event_adsense);
                             for (var i = 0; i < pixels.length; i++) {
