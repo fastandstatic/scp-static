@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://scp.com.co/</loc>
-		<lastmod>2023-01-27T16:28:24+00:00</lastmod>
+		<lastmod>2023-02-09T14:57:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Mask-Group-523-1.png</image:loc>
 		</image:image>
@@ -671,10 +671,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://scp.com.co/noticias/</loc>
-		<lastmod>2023-01-23T15:58:38+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://scp.com.co/pediavoz2/</loc>
 		<lastmod>2023-01-23T19:27:27+00:00</lastmod>
 	</url>
@@ -777,10 +773,6 @@
 		<lastmod>2023-01-27T14:23:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://scp.com.co/descargar-certificados/</loc>
-		<lastmod>2023-01-27T14:45:51+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://scp.com.co/memorias/</loc>
 		<lastmod>2023-01-27T14:55:34+00:00</lastmod>
 	</url>
@@ -793,19 +785,8 @@
 		<lastmod>2023-01-30T16:01:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://scp.com.co/event/</loc>
-		<lastmod>2023-01-30T21:36:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Group-3610.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://scp.com.co/eventos-scp/</loc>
-		<lastmod>2023-01-31T20:23:31+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://scp.com.co/sede-nacional/</loc>
-		<lastmod>2023-01-31T22:25:30+00:00</lastmod>
+		<lastmod>2023-02-06T15:41:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://scp.com.co/wp-content/uploads/2022/12/Enmascarar-grupo-392.png</image:loc>
 		</image:image>
@@ -886,6 +867,128 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://scp.com.co/wp-content/uploads/2022/12/banner_footer_sede_nacionales.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/descargar-certificados/</loc>
+		<lastmod>2023-02-06T19:07:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://scp.com.co/noticias/</loc>
+		<lastmod>2023-02-07T14:27:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://scp.com.co/event/</loc>
+		<lastmod>2023-02-08T15:30:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Group-3610.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/eventos-scp/</loc>
+		<lastmod>2023-02-13T18:20:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/logo_CNRP..png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/Logo-33-congreso.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/Logo-GHC.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/Logo-CNNCS.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/iii-congreso-nacional-de-residentes-de-pediatria/</loc>
+		<lastmod>2023-02-13T18:29:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Mask-Group-522-300x87.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/foto-residentes.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/02/logo_CNRP.-768x256.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3476.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3648.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3476-300x169.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3648.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/gloria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/gloria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/gloria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Grupo-3056.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/gloria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Mask-Group-522.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-52.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-51.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-49.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-48.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-46.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Imagen-45.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://scp.com.co/wp-content/uploads/2023/01/Group-3610.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
