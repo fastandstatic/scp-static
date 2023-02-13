@@ -2,27 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://scp.com.co/certificados/</loc>
-		<lastmod>2023-01-25T20:02:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://scp.com.co/certificados/certificado-vii-simposio-internacional-de-actualizacion-en-pediatra/</loc>
-		<lastmod>2023-01-25T20:00:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/09/25123449/Banner-memorias-VIII-SIAP.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://scp.com.co/certificados/certificado-congreso-nacional-de-residentes-de-pediatria/</loc>
-		<lastmod>2023-01-25T20:00:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/09/25123844/Banner-memorias-CNRP-2022.png</image:loc>
-		</image:image>
+		<lastmod>2023-02-06T19:03:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://scp.com.co/certificados/certificado-congreso-de-crianza-salud-y-nutricion/</loc>
 		<lastmod>2023-01-25T20:02:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/05/25124101/Banner-certificado-CCSN-2022.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/certificados/certificado-vii-simposio-internacional-de-actualizacion-en-pediatra/</loc>
+		<lastmod>2023-02-06T19:00:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/09/25123449/Banner-memorias-VIII-SIAP.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/certificados/certificado-congreso-nacional-de-residentes-de-pediatria/</loc>
+		<lastmod>2023-02-06T19:00:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2022/09/25123844/Banner-memorias-CNRP-2022.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://scp.com.co/certificados/congreso-internacional-de-actualizacion-en-vacunas/</loc>
+		<lastmod>2023-02-06T19:03:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://scpwpoffloadmedia.s3.amazonaws.com/wp-content/uploads/2023/02/06140229/Certificado-CIAC-2022.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
